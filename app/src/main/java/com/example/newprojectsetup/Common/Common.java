@@ -54,7 +54,6 @@ import com.android.volley.ServerError;
 import com.android.volley.TimeoutError;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
-import com.example.newprojectsetup.Activity.Session_management;
 import com.example.newprojectsetup.Activity.Splash_screen;
 import com.example.newprojectsetup.R;
 import com.example.newprojectsetup.Utli.AppController;

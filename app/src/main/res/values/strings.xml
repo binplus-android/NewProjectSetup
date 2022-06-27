@@ -9,4 +9,12 @@
     <string name="mobile_number">9876543210</string>
     <string name="navigation_drawer_close" />
     <string name="navigation_drawer_open" />
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="exit_msg">Are you sure want to Exit</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="delete_dailoge_msg">Djhbkn</string>
+
 </resources>

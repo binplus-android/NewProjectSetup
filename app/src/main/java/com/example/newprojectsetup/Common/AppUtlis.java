@@ -10,7 +10,6 @@ import java.util.regex.Pattern;
 
 public class AppUtlis {
     public static final String TAG = "AppUtlis";
-
     public static final String[] countryList = {"","India", "America", "USA", "Dubai", "Japan", "China", "Bangladesh", "Pakistan", "England", "London"};
     public static final String[] cityList = {"","Mumbai", "Jaipur", "Jhansi", "Delhi","Bareilly","Kolkata","Rampur"};
     public static final String[] stateList = {"","Delhi", "Uttar Pradesh", "Uttrakhand", "Gujarat","Kerala","Tamil Nadu","Odisha"};

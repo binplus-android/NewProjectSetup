@@ -7,8 +7,8 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.travelmanager.Activity.Splash_screen;
-import com.example.travelmanager.R;
+import com.example.newprojectsetup.Activity.Splash_screen;
+import com.example.newprojectsetup.R;
 
 
 public class NetworkError extends AppCompatActivity {
