@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/popup_reschedule"
+        android:iconTint="@color/colorPrimary"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:title="Reschedule"
+        tools:ignore="UnusedAttribute" />
+
+    <item android:id="@+id/popup_cancel"
+        android:iconTint="@color/red"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="@string/cancel"
+        tools:ignore="UnusedAttribute" />
+</menu>

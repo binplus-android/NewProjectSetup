@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+                android:id="@+id/bottom_home"
+                android:iconTint="@color/white"
+                android:title="Home"/>
+        <item
+                android:id="@+id/bottom_create_lead"
+                android:iconTint="@color/white"
+                android:title="Create Lead"/>
+
+        <item
+                android:enabled="true"
+                android:id="@+id/profile"
+                android:iconTint="@color/white"
+
+                android:title="Profile"/>
+</menu>

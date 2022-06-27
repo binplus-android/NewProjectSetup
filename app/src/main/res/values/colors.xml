@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#0322CD</color>
+    <color name="colorPrimaryDark">#021688</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="light_black">#322F2F</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg_login">#FFFFFFFF</color>
+    <color name="shimmer_placeholder">#dddddd</color>
+    <color name="gray">#989393</color>
+
+    <color name="colorAccent">#B1D4E0</color>
+    <color name="colorAccentBlue">#4BA1E4</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="back_white_smoke">#F5F5F5</color>
+    <color name="light_brown">#EC3118</color>
+    <color name="red">#AB0D0D</color>
+    <!--        <color name="red">#F8FB040C</color>-->
+    <color name="transparent">#00000000</color>
+    <color name="green">#16C61D</color>
+    <color name="blue">#1648C6</color>
+    <color name="colorDefault">#FAB8A0A0</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="orange">#CF8A0B</color>
+    <color name="dark_black">#000000</color>
+    <color name="dark_gray">#676565</color>
+    <color name="color_1">#1bdc84</color>
+    <color name="color_2">#4BA1E4</color>
+    <color name="color_3">#ff0023</color>
+
+    <color name="yelow">#ffee05</color>
+    <color name="purple">#ed0bc0</color>
+
+    <color name="gray_trans">#BAE3E3E3</color>
+    <color name="light_red">#f25151</color>
+    <color name="oranges">#FF5800</color>
+    <color name="all">#FC0303</color>
+    <color name="cv_gradient_bluetop">#2E51EC</color>
+    <color name="cv_gradient_bluebottom">#0D2AAB</color>
+
+    <color name="cv_gradient_orange_top">#FECA61</color>
+    <color name="cv_gradient_orange_bottom">#D03F28</color>
+
+    <color name="cv_gradient_green_top">#40E14F</color>
+    <color name="cv_gradient_green_bottom">#17AA3A</color>
+
+    <color name="cv_gradient_yellow_top">#E2CF28</color>
+    <color name="cv_gradient_yellow_bottom">#A49A13</color>
+
+    <color name="cv_gradient_purple_top">#FE61A0</color>
+    <color name="cv_gradient_purple_bottom">#700EA8</color>
+
+    <color name="cv_gradient_red_top">#F94652</color>
+    <color name="cv_gradient_red_bottom">#D71623</color>
+
+
+    <color name="textColorHighlight">#4DD81B60</color>
+    <color name="blue_purple">#673AB7</color>
+    <color name="purpleAlpha15">#26673AB7</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#673AB7</color>
+    <color name="hover">#F4E0DE</color>
+    <color name="yellow">#ffee05</color>
+    <color name="off_white">#F1EFEF</color>
+    <color name="off_blue">#DEDEEB</color>
+    <color name="image_bg_gray2">#80000000</color>
+    <color name="fr_bg_color">#FFFFFFFF</color>
 </resources>

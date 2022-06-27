@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+       <corners android:bottomRightRadius="10dp"
+               android:topRightRadius="10dp">
+
+       </corners>
+
+
+        <!-- This is the border color -->
+        <!--- This is the background color -->
+        <solid android:color="@color/colorPrimaryDark" />
+
+</shape>
