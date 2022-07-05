@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BinplusProjects/NewProjectSetup/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/NewProjectSetup/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/BinplusProjects/NewProjectSetup/app/src/main/res/layout/custom_toast.xml" value="0.20416666666666666" />
         <entry key="..\:/project/NewProjectSetup/app/src/main/res/drawable/bg_bottom_top_curv.xml" value="0.126" />
         <entry key="..\:/project/NewProjectSetup/app/src/main/res/drawable/menu_icon.xml" value="0.126" />
         <entry key="..\:/project/NewProjectSetup/app/src/main/res/layout/activity_splash.xml" value="0.19074074074074074" />
